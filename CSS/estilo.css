@@ -90,3 +90,23 @@ header > button {
   border: none;
   margin-bottom: 150px;
 }
+
+#conteudo {
+    background-color: #202020;
+    padding: 0px 32px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.texto-informativo {
+  display: flex;
+  flex-direction: column;
+}
+
+.topico-informacao {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: ;
+}
